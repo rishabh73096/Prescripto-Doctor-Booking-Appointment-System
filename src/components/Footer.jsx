@@ -30,15 +30,15 @@ function Footer() {
         <div>
           <p className="mb-5 font-medium text-xl">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>+1-212-456-7890</li>
-            <li>Davidpal25@gmail.com</li>
+            <li> +91 7309651657 </li>
+            <li>Rishabhtiwari7306@gmail.com</li>
           </ul>
         </div>
       </div>
       <div>
         <hr className="my-5" />
         <p className="text-center text-gray-600 my-5">
-          Copyright © 2024 David Pal - All Right Reserved.
+          Copyright © 2024 Rishabh tiwari - All Right Reserved.
         </p>
       </div>
     </div>

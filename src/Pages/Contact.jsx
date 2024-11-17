@@ -19,7 +19,7 @@ function Contact() {
           </div>
           <div className='font-medium text-gray-600 mb-5'>
             <p>Tel: (415) 555‑0132</p>
-            <p>Email : Davidpal734@gmail.com</p>
+            <p>Email : rishabhtiwari7309@gmail.com</p>
           </div>
           <p className='font-medium text-gray-700 text-xl'>CAREERS AT PRESCRIPTO</p>
           <p className='my-5 text-gray-600 font-medium'>Learn more about our teams and job openings.</p>
